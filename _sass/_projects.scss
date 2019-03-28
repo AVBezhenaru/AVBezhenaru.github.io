@@ -55,3 +55,16 @@
         }
     }
 }
+
+
+@media screen and (max-width: 600px) {
+    .project {
+    width: 50%;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .project {
+    width: 100%;
+    }
+}
